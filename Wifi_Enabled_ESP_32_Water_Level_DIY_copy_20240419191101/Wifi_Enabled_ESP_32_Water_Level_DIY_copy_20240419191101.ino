@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3-a_jctPE"
+#define BLYNK_TEMPLATE_ID "**************"
 #define BLYNK_TEMPLATE_NAME "Water Level Monitor"
-#define BLYNK_AUTH_TOKEN "UoyTv2S5cQTRlab9C4oiBW0GosBL0AWA"
+#define BLYNK_AUTH_TOKEN "*********************"
 
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
@@ -10,8 +10,8 @@
 #include <AceButton.h>
 using namespace ace_button;
 
-char ssid[] = "BELNET";
-char pass[] = "verygood@123";
+char ssid[] = "************";
+char pass[] = "************";
 
 //Set Water Level Distance in CM
 int emptyTankDistance = 70 ;  //Distance when tank is empty
